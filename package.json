@@ -1,9 +1,7 @@
 {
   "name": "apollonian-live",
   "version": "1.0.0",
-  "description": "Apollonian gasket fractal with infinite zoom for live streaming",
-  "type": "module",
-  "scripts": {
+  "description": "Apollonian gasket fractal with infinite zoom for live streaming","scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
